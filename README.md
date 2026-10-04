@@ -19,6 +19,16 @@
 - светлая и тёмная темы;
 - обновление содержимого жестом вниз.
 
+## Скриншоты
+
+| Избранное | Подкасты |
+| --- | --- |
+| <img src="docs/screenshots/favorites.png" width="320" alt="Избранные подкасты и книги"> | <img src="docs/screenshots/podcasts.png" width="320" alt="Чарт подкастов"> |
+
+| Книги | Выпуски |
+| --- | --- |
+| <img src="docs/screenshots/books.png" width="320" alt="Чарт аудиокниг"> | <img src="docs/screenshots/episodes.png" width="320" alt="Выпуски подкаста"> |
+
 ## Технологии
 
 - Java 11;
