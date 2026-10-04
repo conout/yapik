@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#F4F4F6</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="surface_pressed">#ECECEF</color>
+    <color name="text_primary">#17171A</color>
+    <color name="text_secondary">#686870</color>
+    <color name="text_tertiary">#92929A</color>
+    <color name="cover_default">#FFCC00</color>
+    <color name="badge">#EF3E36</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="episode_play_background">#FFFFFFFF</color>
+    <color name="episode_play_foreground">#17171A</color>
+    <color name="episode_play_outline">#17171A</color>
+    <color name="control_outline">#17171A</color>
+    <color name="on_accent">#17171A</color>
+    <color name="listened_status">#548765</color>
+    <color name="remaining_status">#C47A00</color>
+    <color name="player_track">#D4D4D8</color>
+</resources>
